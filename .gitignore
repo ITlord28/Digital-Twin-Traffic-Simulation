@@ -1,0 +1,62 @@
+# Environments & Virtual Envs
+venv/
+yolov8-env/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# YOLO & Machine Learning Weights (Large Files)
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+runs/
+
+# Video & Media Files (Large Files > 100MB)
+*.mp4
+*.MOV
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+snapshots/
+bus.jpg
+
+# OS & IDE Cache
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# GAMA & Eclipse Metadata
+.metadata/
+.cache/
+.workspace*/
+*.tmp
+1_Digital_Twin_Vehicle_Detection/gama_vehicle_twin/
+2_Digital_Twin_ROI_Pressure/gama_roi_pressure/
+
+# Other legacy / intermediate experimental directories
+Data4Web/
+Drone-Detection-YOLOv8x-main/
+java-traffic-twin/
+Source code/
+traffic_metrics.csv
+out.txt
+REFACTOR_PLAN.html

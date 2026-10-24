@@ -1,0 +1,35 @@
+{
+  "timestamp": 1792858791.73,
+  "source_type": "video",
+  "source_name": "intersection_1_roi.mp4",
+  "fps": 17.0,
+  "roi_polygon": [
+    [
+      0.44,
+      0.84
+    ],
+    [
+      0.61,
+      0.42
+    ],
+    [
+      0.22,
+      0.38
+    ],
+    [
+      0.0,
+      0.5
+    ],
+    [
+      0.0,
+      0.79
+    ]
+  ],
+  "roi_occupancy_pct": 7.3,
+  "queue_length_m": 13.65,
+  "pressure_score": 99.3,
+  "status": "THONG THOANG",
+  "status_code": 1,
+  "vehicles_in_roi": 2,
+  "dwelling_vehicles": 2
+}

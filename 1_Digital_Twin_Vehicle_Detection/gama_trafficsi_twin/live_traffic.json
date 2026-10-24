@@ -1,0 +1,18 @@
+{
+  "status": "stopped",
+  "active": false,
+  "session_id": 1792847189,
+  "timestamp": 1792847213.85,
+  "total_detected": 0,
+  "source_type": "video",
+  "source_name": "intersection_1_vehicles.mp4",
+  "fps": 0.0,
+  "counts": {
+    "total": 0,
+    "car": 0,
+    "motorcycle": 0,
+    "bus": 0,
+    "truck": 0
+  },
+  "vehicles": []
+}
