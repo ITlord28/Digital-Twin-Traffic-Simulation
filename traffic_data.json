@@ -1,0 +1,15 @@
+{
+  "timestamp": 1791881841.1,
+  "north": {
+    "occupancy": 40.5
+  },
+  "south": {
+    "occupancy": 0
+  },
+  "east": {
+    "occupancy": 0
+  },
+  "west": {
+    "occupancy": 0
+  }
+}
