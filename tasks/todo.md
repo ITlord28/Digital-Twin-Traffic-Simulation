@@ -132,3 +132,10 @@
 - [x] 15.5 Cập nhật `README.md` ở cả 2 thư mục đồng bộ duy nhất với phiên bản TrafficSi
 - [x] 15.6 Cập nhật `.gitignore` loại bỏ các file rác môi trường ảo, cache và metadata
 - [x] 15.7 Biên dịch headless xác nhận cả 2 mô hình GAMA đạt PASS 100%
+
+## Giai đoạn 16: Khởi Tạo Git Repo & Đẩy Lên GitHub ITlord28/Digital-Twin-Traffic-Simulation
+- [x] 16.1 Thiết lập `.gitignore` toàn diện: loại trừ triệt để video lớn (>100MB), trọng số `.pt`, cache và venv
+- [x] 16.2 Xây dựng tệp `LICENSE` chuẩn CC BY-NC 4.0 với điều khoản Miễn trừ trách nhiệm pháp lý & Phi thương mại
+- [x] 16.3 Soạn thảo `README.md` thư mục gốc: Tổng quan 2 module TrafficSi, hướng dẫn kiểm thử và tuyên bố NCKH
+- [x] 16.4 Tạo repository `Digital-Twin-Traffic-Simulation` trên GitHub `@ITLord28` với mô tả NCKH & miễn trừ pháp lý
+- [x] 16.5 Khởi tạo `git init -b main`, commit sạch sẽ và push thành công lên `origin/main`
